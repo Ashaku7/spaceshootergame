@@ -13,6 +13,4 @@ A simple space shooter game created using java and javafx.
 -Fast paced
 
 -Attractive UI
-=======
-# spaceshootergame
-A simple space shooter game created using java and javafx.
+
