@@ -1,2 +1,2 @@
 # spaceshootergame
-A simple space shooter agme created using java and javafx.
+A simple space shooter game created using java and javafx.
